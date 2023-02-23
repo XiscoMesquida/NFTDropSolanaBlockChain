@@ -1,0 +1,28 @@
+{
+    "name": "textured",
+    "symbol": "TLDR",
+    "description": "Nft Tipo Test Lidar Iphone",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "lamp"
+        },
+        {
+            "trait_type": "chair",
+            "value": "red"
+        },
+        {
+            "trait_type": "books",
+            "value": "blue"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "image/png",
+                "type": "png"
+            }
+        ]
+    }
+}

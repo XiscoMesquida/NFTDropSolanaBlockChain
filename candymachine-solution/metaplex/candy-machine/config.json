@@ -1,0 +1,22 @@
+{
+  "size": 3,
+  "symbol": "TLDR",
+  "royalties": 500,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "6Lgr3bwZRSE8L5p8DLHSoCX1g8i41ZQ5PEF5p3rNDA6u",
+      "share": 100
+    }
+  ],
+  "hiddenSettings": null,
+  "uploadConfig": {
+    "method": "bundlr",
+    "awsConfig": null,
+    "nftStorageAuthToken": null,
+    "pinataConfig": null,
+    "shdwStorageAccount": null
+  },
+  "isMutable": true,
+  "guards": null
+}

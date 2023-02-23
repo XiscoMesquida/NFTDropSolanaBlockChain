@@ -1,0 +1,28 @@
+{
+    "name": "wall",
+    "symbol": "TLDR",
+    "description": "Nft Tipo Test Lidar Iphone WALL",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "outside",
+            "value": "wall"
+        },
+        {
+            "trait_type": "kids",
+            "value": "red"
+        },
+        {
+            "trait_type": "draw",
+            "value": "blue"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

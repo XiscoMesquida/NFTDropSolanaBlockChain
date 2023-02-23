@@ -1,0 +1,28 @@
+{
+    "name": "Man",
+    "symbol": "TLDR",
+    "description": "Nft Tipo Test Lidar Iphone man",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "outside",
+            "value": "Man"
+        },
+        {
+            "trait_type": "Experience",
+            "value": "calm"
+        },
+        {
+            "trait_type": "Chair",
+            "value": "blue"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
